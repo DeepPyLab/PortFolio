@@ -26,7 +26,7 @@ const greeting = {
     `Experienced Software Test Engineer with a Master’s in Electrical Engineering and a strong background in software validation for electrical/electronic systems. Skilled in HIL/SIL testing, regression testing, and improving software efficiency. Proficient in Agile methodologies, CI/CD, and compliance with ASPICE. Expertise in Python, C/C++, Git, and requirements engineering. A proactive problem-solver focused on process improvement and test automation.`
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1qH6pyr7JQoQPin_AnJQxIoFeYp8nDVs4/view?usp=drive_link", // Set to empty to hide the button
+    "https://drive.google.com/file/d/18iZFCcc7H8E8C2XprgVRZQsYpcXPnv57/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -59,6 +59,8 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     { skillName: "Python", fontAwesomeClassname: "fab fa-python" },
+    { skillName: "C", fontAwesomeClassname: "fas fa-code" },
+    { skillName: "C++", fontAwesomeClassname: "fas fa-laptop-code" },
     { skillName: "Shell Scripting", fontAwesomeClassname: "fas fa-terminal" },
     { skillName: "Docker", fontAwesomeClassname: "fab fa-docker" },
     { skillName: "Git", fontAwesomeClassname: "fab fa-git-alt" },
@@ -102,10 +104,6 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "aws",
       fontAwesomeClassname: "fab fa-aws"
-    },
-    {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -123,7 +121,6 @@ const educationInfo = {
       duration: "April 2021 - October 2023",
       desc: "Specialized in Smart Systems, focusing on automation, communication systems, and software testing.",
       descBullets: [
-        "Master Thesis: Basic Concepts for Automated Test Case Generation in OPC UA",
         "Research Project: Angular Antenna Calibration of Highly Directive Point-to-Point mmW Communication",
       ]
     },
@@ -134,8 +131,7 @@ const educationInfo = {
       duration: "August 2016 - September 2020",
       desc: "Ranked top 10% in the program. Best-Outgoing Student Award in EEE Department - 2020",
       descBullets: [
-        "Bachelor Thesis - Analyzing the Dynamic Performance of Distributed Generator in Micro-Grid Using Micro-Turbine.",
-        "Internship - Developed a Two-Way Solar Panel Tracking System.",
+        "Internship: Developed a Two-Way Solar Panel Tracking System.",
       ]
     }
   ]
