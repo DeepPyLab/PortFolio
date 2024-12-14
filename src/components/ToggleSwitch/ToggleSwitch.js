@@ -6,8 +6,8 @@ import "./ToggleSwitch.scss";
 const ToggleSwitch = () => {
   const styleContext = useContext(StyleContext);
 
-  // Check if the theme is stored in localStorage, default to dark
-  const [isChecked, setChecked] = useState(localStorage.getItem("theme") === "light" ? false : true);
+  // Always default to dark mode, no matter what is in localStorage
+  const [isChecked, setChecked] = useState(true); // Dark mode is always the default
 
   // Apply theme based on toggle switch state
   useEffect(() => {
