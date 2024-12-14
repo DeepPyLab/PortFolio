@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PortFolio/static/css/main.db18cd8e.css",
-    "main.js": "/PortFolio/static/js/main.0ef81aa0.js",
+    "main.js": "/PortFolio/static/js/main.8721b54a.js",
     "static/css/64.bba8fa55.chunk.css": "/PortFolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/PortFolio/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/PortFolio/static/css/769.b3cbb36b.chunk.css",
@@ -9,6 +9,7 @@
     "static/media/VTU_logo.png": "/PortFolio/static/media/VTU_logo.f6c3fccf806d12fd3833.png",
     "static/media/Montserrat-Regular.ttf": "/PortFolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/Agustina.woff": "/PortFolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/resume.pdf": "/PortFolio/static/media/resume.704725731eac809621de.pdf",
     "static/media/manOnTable.svg": "/PortFolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/contactMailDark.svg": "/PortFolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/vwif.png": "/PortFolio/static/media/vwif.55bcc708d9a46ad9dc5f.png",
@@ -17,11 +18,10 @@
     "static/media/uni_michigen.webp": "/PortFolio/static/media/uni_michigen.90a3d50f1a94f7a27548.webp",
     "static/media/fraunhofer_ipa.png": "/PortFolio/static/media/fraunhofer_ipa.dc7b8d20cbd0d6388ae5.png",
     "static/media/skill.svg": "/PortFolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
-    "static/media/resume.pdf": "/PortFolio/static/media/resume.f0f733dd3cd732b39262.pdf",
     "index.html": "/PortFolio/index.html",
     "static/media/talksCardBack.svg": "/PortFolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.db18cd8e.css.map": "/PortFolio/static/css/main.db18cd8e.css.map",
-    "main.0ef81aa0.js.map": "/PortFolio/static/js/main.0ef81aa0.js.map",
+    "main.8721b54a.js.map": "/PortFolio/static/js/main.8721b54a.js.map",
     "64.bba8fa55.chunk.css.map": "/PortFolio/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/PortFolio/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/PortFolio/static/css/769.b3cbb36b.chunk.css.map",
@@ -29,6 +29,6 @@
   },
   "entrypoints": [
     "static/css/main.db18cd8e.css",
-    "static/js/main.0ef81aa0.js"
+    "static/js/main.8721b54a.js"
   ]
 }
